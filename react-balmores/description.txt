@@ -1,0 +1,12 @@
+This new React project is created using Vite, serving as a starter template for building modern web applications. Vite offers a fast development environment and optimized build process, making it an excellent choice for React projects.
+
+Features:
+
+React 18: Leverage the latest version of React for building your UI.
+
+Vite: Enjoy rapid development and efficient builds with Vite's optimized tooling.
+
+JavaScript and JSX Support: Write your application using modern JavaScript and JSX syntax.
+
+Extensible and Customizable: Easily extend and tailor the project to fit your specific needs.
+Enjoy building your React application with Vite!
